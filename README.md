@@ -16,4 +16,4 @@ Similarmente a la ley de proximidad ésta ley también se aplica a los elementos
 Dificilmente apreciable pero durante el diseño de la aplicación de Figma era muy notorio cómo cambiaba la percepción del color en función del contexto cromático del elemento. En la aplicación se trató de crear una experiencia agradable y uniforme en cuanto al color.
 
 ## Implementación
-La implementación es considerablemente más cruda y sencilla que la aplicación de Figma por falta de tiempo (véase comentario privado). Sin embargo no existen errores de accesibilidad y la implementación sería similar salvo la falta de inclusión de un fondo y algo extra de css para jugar con la opacidad, las fuentes, los colores...etc
+La implementación es considerablemente más cruda y sencilla que la aplicación de Figma por falta de tiempo (véase comentario privado). Sin embargo no existen errores de accesibilidad y la implementación sería similar salvo la falta de css para jugar con la opacidad, las fuentes, los colores...etc y permitir el scroll en la aplicación móvil (diferentes alternativas han sido probadas sin éxito, tanto en css como en html..etc)
