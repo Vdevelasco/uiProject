@@ -6,6 +6,7 @@ Desktop: https://www.figma.com/file/HCyDEEE2fvk4yvIvB0nHuR/Untitled?type=design&
 
 Mobile: https://www.figma.com/file/rhhJNW3YY4XMrNC4IcHSmE/Untitled?type=design&node-id=1%3A3&mode=dev
 ## Leyes de UX
+NOTA: Dada la sencillez de la interfaz y que sólo se habla de un elemento o de una visión general se han omitido las caputras de pantalla.
 ### Ley de proximidad
 Todos los elementos de la "navBar" comparten funciones similares y, por ende, se encuentran cerca unos de otros
 ### Ley de región común
